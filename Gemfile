@@ -25,7 +25,6 @@ gem "jquery-rails"
 group "development" do
   gem "spring"
   gem "pry"
-  gem "foreman"
   gem "letter_opener"
 end
 
