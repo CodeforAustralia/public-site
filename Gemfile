@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "rails", "4.1.1"
+gem "rails", "4.1.6"
 gem "turbolinks"
 gem "pg"
 gem "therubyracer", platforms: :ruby
@@ -23,7 +23,6 @@ gem "bootstrap-sass"
 gem "jquery-rails"
 
 group "development" do
-  gem "spring"
   gem "pry"
   gem "letter_opener"
 end
